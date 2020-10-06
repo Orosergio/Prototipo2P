@@ -1,0 +1,9 @@
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
