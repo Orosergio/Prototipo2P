@@ -1,0 +1,14 @@
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.frmMantenimientoEliminar.resources
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.frmMantenimientoInsertar.resources
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\ParcialMVC\CapaVista\bin\Debug\CapaModelo.pdb
