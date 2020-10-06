@@ -1,0 +1,13 @@
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.csprojAssemblyReference.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.Form1.resources
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.Properties.Resources.resources
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.csproj.GenerateResource.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.csproj.CoreCompileInputs.cache
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\bin\Debug\contenedorMDI.exe.config
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\bin\Debug\contenedorMDI.exe
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\bin\Debug\contenedorMDI.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\bin\Debug\CapaVista.dll
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\bin\Debug\CapaVista.pdb
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.csproj.CopyComplete
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.exe
+C:\Users\Yavhé Orozco\Desktop\SegundoParcial\contenedorMDI\contenedorMDI\obj\Debug\contenedorMDI.pdb
